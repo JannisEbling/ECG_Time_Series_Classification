@@ -16,4 +16,4 @@ I. Problem definition
 ---
 
 ## I. Problem definition
- ECG is the electrical activity of the heartbeat, which can be used to identify problems and illnesses of the heart. The electrical activity is measured over time, where a typical patterns appears for every heartbeat. The goal here is to recognise unusual ECG Measurements. Furthermore the type of anomaly can be identified.
+ECG is the electrical activity of the heartbeat, which can be used to identify problems and illnesses of the heart. The electrical activity is measured over time, where a typical patterns appears for every heartbeat. The goal here is to recognise unusual ECG measurements and furthermore the type of anomaly can be identified. This is done by employing a Neural Network with an extensive hyperparameter search.
